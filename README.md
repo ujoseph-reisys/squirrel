@@ -8,7 +8,7 @@ Prerequisites
 - Oracle Virtualbox
 - Vagrant 
 
-Installation with Vagrant
+Deployment with Vagrant
 -------------------------
 
 Assumptions
@@ -38,7 +38,7 @@ eg) IP you can change at line #11 private_network: 192.168.56.1xx
 source and target at line# 37 and 38 respectively
 
 
-Installation - Old fashioned way
+Deployment - Old fashioned way
 --------------------------------
 Assumptions
 ```
